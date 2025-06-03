@@ -1,7 +1,7 @@
 💼 Dear Data Analyst,
 Your expertise is needed in organizing the data and developing the dashboard—both of which are key to helping us:
 
-# Manage our workforce
+** Manage our workforce **
 
 # Understand financial risks
 
