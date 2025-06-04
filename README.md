@@ -40,3 +40,5 @@ Salary distribution trends
 
 Department and project-level management insights
 
+# Screenshot / Demos
+Show wat the dashboard looks like. - ![Alt text] (https://github.com/itayh2/Project-Overiew-Dashboard/blob/main/Dashboard.png)
